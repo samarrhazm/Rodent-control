@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://rodent-control.vercel.app/sitemap.xml
